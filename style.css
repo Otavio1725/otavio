@@ -6,7 +6,7 @@ padding: 0;
 .cabeçalho
 {
 background-color: #BDEDFF;
-color:aqua
+color:rgb(82, 73, 202)
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -42,7 +42,7 @@ color: black;
 .rodapeimagem
 {width: 1435px ;}
 
-.iconefacebook
+.iconeFacebook
 {width: 60px ;
     padding: 4px 8px;}
 
